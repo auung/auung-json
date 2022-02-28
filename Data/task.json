@@ -1,16 +1,18 @@
 [
 	{
+		"id": 1,
 		"name": "buy milk",
 		"details": "buy milk at XYZ Mart",
 		"date_created": "12/2/2022",
 		"due_date": "",
-		"completed": "false"
+		"completed": false
 	},
 	{
+		"id": 2,
 		"name": "meet John",
 		"details": "meet with John at ABC Restaurant",
 		"date_created": "11/2/2022",
 		"due_date": "15/2/2022",
-		"completed": "false"
+		"completed": false
 	}
 ]
